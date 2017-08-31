@@ -16,6 +16,8 @@ In order to run the server use the command ```python main.py```
 ## Modules
 The code uses react modules in the ```js/components``` folder and the ```app.jsx``` controls how the user steps trhough these components.
 
+## Caveats
+If you are not running on localhost you **must** use a https connection or the browser will block the access to the camera and microphone
 
 ## Citation
 If you use any of this work, then please cite the following paper:
