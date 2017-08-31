@@ -1,0 +1,6 @@
+.env
+env
+venv
+*.pyc
+database.db
+node_modules
