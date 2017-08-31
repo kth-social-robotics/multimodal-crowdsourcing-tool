@@ -22,7 +22,9 @@ If you are not running on localhost you **must** use a https connection or the b
 ## Citation
 If you use any of this work, then please cite the following paper:
 
-Jonell, Patrik, et al. "Crowd-Powered Design of Virtual Attentive Listeners." Intelligent Virtual Agents: 17th International Conference, IVA 2017, Stockholm, Sweden, August 27-30, 2017, Proceedings. Vol. 10498. Springer, 2017.
+Jonell, P., Oertel, C., Kontogiorgos, D., J., Beskow, J., Gustafson, J.:
+Crowd-Powered Design of Virtual Attentive Listeners. In: Intelligent Virtual Agents: 17th International Conference, IVA 2017, Stockholm, Sweden, August 27-30, 2017, Proceedings. Vol. 10498. Springer, 2017 (2017)
+
 
 ```
 @inproceedings{jonell2017crowd,
